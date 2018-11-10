@@ -1,0 +1,12 @@
+{
+  "name": "exriot/key-value-profile",
+  "description": "Nothing special, just key-value settings on a file",
+  "keywords": ["key-value","settings"],
+  "homepage": "https://github.com/exriot/key-value-profile.git",
+  "license": "MIT",
+  "autoload": {
+    "psr-0": {
+      "Exriot\\Profile": "src"
+    }
+  }
+}
